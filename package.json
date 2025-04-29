@@ -1,0 +1,20 @@
+{
+    "name": "kubernet-docker-app",
+    "version": "1.0.0",
+    "main": "app.mjs",
+    "scripts": {
+        "start": "node app.mjs"
+    },
+    "description": "Docker Images and Containers: The Core Building Block",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/srujan75/Kubernet-Docker.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/srujan75/Kubernet-Docker/issues"
+    },
+    "homepage": "https://github.com/srujan75/Kubernet-Docker#readme"
+}
